@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="jennietitle">
+        <item name="android:layout_width">104dp</item>
+        <item name="android:layout_height">29dp</item>
+        <item name="android:text">Jennie Kim</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">20dp</item>
+
+    </style>
+
+    <style name="jennietext1">
+        <item name="android:layout_width">190dp</item>
+        <item name="android:layout_height">104dp</item>
+        <item name="android:text">A South Korean singer , rapper , dancer and model . She is a member of the South Korean girl group Black Pink , which was founded in 2016 by YG Entertainment .</item>
+
+
+    </style>
+
+    <style name="jennieimage">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">147dp</item>
+
+    </style>
+
+    <style name="jisootitle">
+        <item name="android:layout_width">104dp</item>
+        <item name="android:layout_height">29dp</item>
+        <item name="android:text">Jisoo Kim</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">20dp</item>
+
+    </style>
+
+    <style name="jisootext1">
+        <item name="android:layout_width">190dp</item>
+        <item name="android:layout_height">104dp</item>
+        <item name="android:text">A South Korean singer and model . She is a member of the South Korean girl group Black Pink , which was founded in 2016 by YG Entertainment .</item>
+
+    </style>
+
+
+    <style name="jisooimage">
+        <item name="android:layout_width">127dp</item>
+        <item name="android:layout_height">147dp</item>
+
+    </style>
+
+    <style name="lisatitle">
+        <item name="android:layout_width">157dp</item>
+        <item name="android:layout_height">29dp</item>
+        <item name="android:text">Lalisa Manoban</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">20dp</item>
+
+    </style>
+
+    <style name="lisatext1">
+        <item name="android:layout_width">190dp</item>
+        <item name="android:layout_height">104dp</item>
+        <item name="android:text">A Thai / South Korean singer and model . She is a member of the South Korean girl group Black Pink , which was founded in 2016 by YG Entertainment .</item>
+
+    </style>
+
+    <style name="lisaimage">
+        <item name="android:layout_width">135dp</item>
+        <item name="android:layout_height">147dp</item>
+
+    </style>
+
+</resources>
